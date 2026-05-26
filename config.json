@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervender",
+        "uuid": 7446390,
+        "checksum": "h4cr1e"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
